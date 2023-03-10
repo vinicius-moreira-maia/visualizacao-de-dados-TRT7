@@ -1,5 +1,5 @@
 # DATA VISUALIZATION / VISUALIZAÇÃO DE DADOS
-**PORTUGUESE / PORTUGUÊS:** Programa desenvolvido durante meu estágio como designer multimídia no Tribunal Regional do Trabalho da 7º região. Fui solicitado para criar alguns gráficos baseados em uma tabela do Google Sheets e resolvi utilizar Python para automatizar o processo.
+**PORTUGUESE / PORTUGUÊS:** Programa desenvolvido durante meu estágio como designer multimídia no Tribunal Regional do Trabalho da 7º Região. Fui solicitado para criar alguns gráficos baseados em uma tabela do Google Sheets e resolvi utilizar Python para automatizar o processo.
 
 **ENGLISH / INGLÊS:** Program developped during my multimedia design internship at Tribunal Regional do Trabalho da 7ª Região. I was asked to make some charts based on a Google Sheet's Table and i used Python to automate the process.
 
