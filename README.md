@@ -1,0 +1,7 @@
+# DATA VISUALIZATION / VISUALIZAÇÃO DE DADOS
+**PORTUGUESE / PORTUGUÊS:** Programa desenvolvido durante meu estágio como designer multimídia no Tribunal Regional do Trabalho da 7º região. Fui solicitado para criar alguns gráficos baseados em uma tabela do Google Sheets e resolvi utilizar Python para automatizar o processo.
+**ENGLISH / Inglês:** Program developped during my multimedia design internship at Tribunal Regional do Trabalho da 7ª Região. I was asked to make some charts based on a Google Sheet's Table and i used Python to automate the process.
+
+## **Description**:
+**PORTUGUESE / PORTUGUÊS:** Há três funções no arquivo python, a get_num que lida com os valores de entrada, a função main e a create_chart, que é onde está o código presente na documentação do matplotlib. Eu carrego o arquivo .csv para a memória e extraio e limpo os dados que desejo utilizar. Após isto utilizo a função create_chart para gerar o arquivo .png com o gráfico e, depois, utilizo a biblioteca PIL para inserir o título na imagem com a fonte desejada. 
+**ENGLISH / Inglês:** There is 3 functions on the python file, the get_num that deals with input values, the main function and the create_chart one, which is where the matplotlib code is. I load the .csv file into memory and extract and clean the data that i want. After that i use the create_chart function to generate the .png file containing the chart and then i use the PIL library to add the title on the .png with the font that i want.
