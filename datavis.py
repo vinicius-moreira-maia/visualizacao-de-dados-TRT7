@@ -56,7 +56,7 @@ def main():
     font = ImageFont.truetype('Myriad Pro Semibold.ttf', 38) # 'setando' a fonte e o tamanho
     image_editable = ImageDraw.Draw(imagem) # transformando a imagem em editável
     image_editable.text((15,15), title_text, (0, 0, 0), font=font) # posicionando o texto
-    imagem.save(f"{num}.png") #
+    imagem.save(f"{num}.png")
 
 def create_chart(recipe, data, legenda):
     '''
